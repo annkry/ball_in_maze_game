@@ -20,3 +20,6 @@ To compile: make
 To run: ./main `<seed>` `<N>`  
 
 Where seed and N are optional.
+
+Here is a visualization.
+![alt text](3d_pyramids.JPG)
