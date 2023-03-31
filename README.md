@@ -17,6 +17,6 @@ Functionalities:
 5. Along the way, there is a possibility to collect yellow spheres, collecting which deducts 5 seconds from the gameplay time.
 
 To compile: make  
-To run: ./main <seed> <N>  
+To run: ./main `<seed>` `<N>`  
 
 Where seed and N are optional.
