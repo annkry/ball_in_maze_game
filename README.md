@@ -16,7 +16,7 @@ Functionalities:
 4. The walls of the cube where the game takes place have a texture applied to facilitate orientation in 3D space and indicate the location of an orange pyramid (collision with which leads to a win). The smaller black squares in the background indicate the player's proximity to the finish line.
 5. Along the way, there is a possibility to collect yellow spheres, collecting which deducts 5 seconds from the gameplay time.
 
-To compile: make 
-To run: ./main <seed> <N>
+To compile: make  
+To run: ./main <seed> <N>  
 
 Where seed and N are optional.
